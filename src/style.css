@@ -1,0 +1,183 @@
+* {
+    box-sizing: border-box;
+}
+
+nav {
+    display: flex;
+    position: relative;
+    top: 0;
+    padding-top: 0;
+    margin-top: 0;
+    margin: auto;
+    width: 400px;
+    color: whitesmoke;
+    font-weight: 500;
+}
+
+.nav--home {
+    background-color: #181b22;
+    border: none;
+    color: whitesmoke;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-style: normal;
+    font-size: 11px;
+}
+
+
+.nav--desc {
+    text-align: center;
+    display: flex;
+    background-color: #181b22;
+    width: 400px;
+    margin: 0 auto;
+}
+
+body {
+    background-color: #181b22;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+.name-- {
+    padding-top: 10px;
+    background-color: #181b22;
+    margin: auto;
+    line-height: 1em;
+    width: 400px;
+}
+
+.photo--img {
+    border-radius: 100px;
+    background-color: #181b22;
+    height: 80px;
+    width: 80px;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+.name--title {
+    text-align: left;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-style: normal;
+    font-size: 20px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    color: whitesmoke;
+    font-weight: 500;
+}
+
+.name--job {
+    line-height: 0px;
+    text-align: left;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-style: normal;
+    font-size: 10px;
+    color: rgb(83, 220, 238);
+    font-weight: 100;
+}
+
+.name--add {
+    padding-top: 0;
+    text-align: left;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-style: normal;
+    font-size: 10px;
+    padding-bottom: 10px;
+    color: whitesmoke;
+    font-weight: 100;
+}
+
+.button-- {
+    /* display: flex; */
+    /* padding-top: 10px; */
+    background-color: #181b22;
+    width: 350px;
+    margin: auto;
+}
+
+main {
+    display: inline-flexbox;
+    background-color: #181b22;
+    width: 400px;
+    margin-inline: auto;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+.about-- {
+    color: whitesmoke;
+    line-height: 1;
+}
+
+.about--h1 {
+    padding-top: 5px;
+    font-size: 15px;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    text-decoration: underline;
+    text-decoration-color: gray;
+}
+
+.about--obj--det {
+    line-height: 0.8;
+    width: 400px;
+    font-size: 10px;
+    font-weight: 100;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-style: normal;
+    text-align: justify;
+    margin: auto;
+}
+
+.purple--high {
+    font-size: 10px;
+    font-weight: 100;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-style: normal;
+    text-align: justify;
+    color: rgb(83, 220, 238);
+}
+
+.about--bio--det {
+    line-height: 0.8;
+    width: 400px;
+    font-size: 10px;
+    font-weight: 100;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-style: normal;
+    text-align: justify;
+    margin: auto;
+}
+
+.bio--table{
+    width: 400px;
+    height: 50px;
+    font-size: 10px;
+    font-weight: 100;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-style: normal;
+    text-align: left;
+    padding: 0;
+}
+
+.bio--date {
+    color: rgb(238,83,212);
+    font-weight: 400;
+    padding: 0;
+    width: 50px;
+    vertical-align: text-top;
+}
+
+.bio--info {
+    display: inline-block;
+    padding: 1px;
+    vertical-align: text-top;
+    line-height: 12px;
+}
+
+.vid--echo {
+    padding-top: 1em;
+    display: flex;
+    width: 400px;
+    margin: 0 auto;
+    background-color: #181b22;
+}
